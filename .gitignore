@@ -1,2 +1,5 @@
 Sentiment Analysis - Completed.ipynb
 workflow - Completed.py
+
+.DS_Store
+__pycache__/
